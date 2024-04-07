@@ -6,6 +6,7 @@
 2. Парсинг дополнительных данных о характеристиках с маркетплейсов Ozon и различных медицинских сайтов.
 3. `cointegrated/RU-BERT-TINY` для классификации входных наименований по категориям.
 4. `IlyaGusev/saiga_mistral_7b` - GPT модель для генерации текста (результатов в виде JSON)
+5. Все вспомогательные файлы лежат в гугле диске - https://drive.google.com/drive/folders/1nLaarTgCTdCdAUq5uUMumx1UutMkBKhI?usp=drive_link
 
 ## Архитектура нашей системы:
 ![alt text](https://github.com/lyaminartemiy/tender_hack_2024/blob/main/images/architecture.jpg)
